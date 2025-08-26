@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/wknd-forms/language-masters/en:/",
-    "/content/wknd-forms/language-masters/en/:/",
-    "/content/wknd-forms/language-masters/en/:/en/",
-    "/content/wknd-forms/configuration:/.helix/config.json",
-    "/content/wknd-forms/metadata:/metadata.json",
-    "/content/wknd-forms/redirects:/redirects.json",
-    "/content/wknd-forms/placeholders:/placeholders.json",
-    "/content/wknd-forms.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/wknd-adaptive-forms/language-masters/en:/",
+    "/content/wknd-adaptive-forms/language-masters/en/:/",
+    "/content/wknd-adaptive-forms/language-masters/en/:/en/",
+    "/content/wknd-adaptive-forms/configuration:/.helix/config.json",
+    "/content/wknd-adaptive-forms/metadata:/metadata.json",
+    "/content/wknd-adaptive-forms/redirects:/redirects.json",
+    "/content/wknd-adaptive-forms/placeholders:/placeholders.json",
+    "/content/wknd-adaptive-forms.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknd-forms/",
-    "/content/dam/wknd-forms/"
+    "/content/wknd-adaptive-forms/",
+    "/content/dam/wknd-adaptive-forms/"
   ]
 }
