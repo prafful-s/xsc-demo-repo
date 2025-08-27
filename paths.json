@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/wknd-with-forms/language-masters/en:/",
-    "/content/wknd-with-forms/language-masters/en/:/",
-    "/content/wknd-with-forms/language-masters/en/:/en/",
-    "/content/wknd-with-forms/configuration:/.helix/config.json",
-    "/content/wknd-with-forms/metadata:/metadata.json",
-    "/content/wknd-with-forms/redirects:/redirects.json",
-    "/content/wknd-with-forms/placeholders:/placeholders.json",
-    "/content/wknd-with-forms.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/wknd-with-ada-forms/language-masters/en:/",
+    "/content/wknd-with-ada-forms/language-masters/en/:/",
+    "/content/wknd-with-ada-forms/language-masters/en/:/en/",
+    "/content/wknd-with-ada-forms/configuration:/.helix/config.json",
+    "/content/wknd-with-ada-forms/metadata:/metadata.json",
+    "/content/wknd-with-ada-forms/redirects:/redirects.json",
+    "/content/wknd-with-ada-forms/placeholders:/placeholders.json",
+    "/content/wknd-with-ada-forms.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknd-with-forms/",
-    "/content/dam/wknd-with-forms/"
+    "/content/wknd-with-ada-forms/",
+    "/content/dam/wknd-with-ada-forms/"
   ]
 }
